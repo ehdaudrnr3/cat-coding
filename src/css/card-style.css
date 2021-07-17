@@ -1,0 +1,14 @@
+.cat-card {
+    display: flex;
+    flex-direction: column;
+
+    /* TODO: 카드 정렬하기 */
+    margin-left: calc( (100% - (20% * 4)) / 4);
+    
+    width: 250px;
+    height: 350px;
+}
+
+.card-image {
+    height: 70%;
+}

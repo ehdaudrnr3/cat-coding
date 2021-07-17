@@ -1,0 +1,23 @@
+.list-area {
+    margin-top: 3%;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.empty-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.empty-message {
+    margin-top: 8%;
+    text-align: center;
+}
+.empty-image {
+    height: 300px;
+    width: 350px;
+}

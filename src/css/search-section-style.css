@@ -1,0 +1,34 @@
+.search-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 83px;
+}
+
+.search-wrapper  {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.search-box  {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.search-random-btn {
+    font-size: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.search-list { 
+    margin-top: 15px;
+}
+.keyword {
+    background-color: rgb(255, 127, 0);
+    color: white;
+    border-radius: 11px;
+    cursor: pointer;
+    padding: 5px;
+    margin-right: 8px;
+}
